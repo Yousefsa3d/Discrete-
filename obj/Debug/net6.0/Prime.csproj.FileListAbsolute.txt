@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.exe
+C:\Users\dell\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.deps.json
+C:\Users\dell\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.runtimeconfig.json
+C:\Users\dell\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.dll
+C:\Users\dell\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.pdb
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.AssemblyInfo.cs
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.dll
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\refint\Prime.dll
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.pdb
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.genruntimeconfig.cache
+C:\Users\dell\source\repos\Prime\Prime\obj\Debug\net6.0\ref\Prime.dll
